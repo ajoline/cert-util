@@ -1,5 +1,5 @@
 # cert-utiil
-A bash script that helps newbies to OpenSSL create Certificate Authorities and signed X509 certificates.
+A bash utility to assist with OpenSSL that creates can manage multiple CA and create signed X509 certificates for that CA.
 
 
 # Certificate Generation Script
